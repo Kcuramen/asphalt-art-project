@@ -28,11 +28,12 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 My porject is a face of Minecrect the Creeper
 
 2. What are two things about your project that you are proud of?
-I am proud of how I am able to create multiple painter and multiple method to create this creeper. I alos like how I 
+I am proud of how I am able to create multiple painter and multiple method to create this creeper. I alos like how I create a bunch of differnt file for diferent parts of the face. 
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
+I would probally do somthing harder with more detail becuase since now I got the hang of it I think I would be able to do detailed photos. 
 
 4. How is this project related to STEAM (Science, Technology, Engineering, Art, and Mathematics)? Provide explicit examples from the project and details as possible. 
-
+This project is related to STEAM due to the Technology, Enginering, Art being a main assest like learning ways to use methods and different file to create a mural/art, and enginering in our code and seeing if it while work or not. 
 5. What SLOs did you demonstrate during completing this project?
-
+Some SLOs that I demonstrated during completing this prjoect is me getting the hang of actual code the methods and calling them in my code and the smae goes for making the file and atcual calling it. 
